@@ -5,5 +5,5 @@ Just a motivational page, thanks to [Marco](https://github.com/jurgz) :hearts:
 - Go to https://mattiapiccinetti.github.io/bravone/
 - Audio on
 - Read the text
-- Click everywhere
+- Click anywhere
 - GET YOUR WELL-DESERVED MOTIVATION!
