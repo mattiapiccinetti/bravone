@@ -1,4 +1,4 @@
-# bravone
+# Bravone
 Just a motivational page, thanks to [Marco](https://github.com/jurgz) :hearts:
 
 ## Intructions
